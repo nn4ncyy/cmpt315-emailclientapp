@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/cmpt315-emailclientapp/static/css/main.33d89049.css",
+    "main.js": "/cmpt315-emailclientapp/static/js/main.560a0ad0.js",
+    "static/js/787.010e7e0a.chunk.js": "/cmpt315-emailclientapp/static/js/787.010e7e0a.chunk.js",
+    "index.html": "/cmpt315-emailclientapp/index.html",
+    "main.33d89049.css.map": "/cmpt315-emailclientapp/static/css/main.33d89049.css.map",
+    "main.560a0ad0.js.map": "/cmpt315-emailclientapp/static/js/main.560a0ad0.js.map",
+    "787.010e7e0a.chunk.js.map": "/cmpt315-emailclientapp/static/js/787.010e7e0a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.33d89049.css",
+    "static/js/main.560a0ad0.js"
+  ]
+}
